@@ -1,4 +1,4 @@
-package com.andersenlab.tranee.someIOProject;
+package com.andersenlab.traniee.someIOProject;
 
 import java.io.File;
 import java.io.FileNotFoundException;
